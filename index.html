@@ -7,9 +7,15 @@
     <title>TACO IDE</title>
 </head>
 <body>
+    <input type="text" id="fileName"></input>
+    <button id="save">save</button>
+    <input type="file" id="file-selector" multiple accept=".js, .html, .css"></input>
     <div id="IDE"></div>
+    
 </body>
 <script src="src-min-noconflict/ace.js" type="text/javascript" charset="utf-8"></script>
 <script src="src-min-noconflict/ext-language_tools.js"></script>
 <script src="IDE files/editor.js"></script>
+<script src="IDE files/download.js"></script>
+<script src="IDE files/upload.js"></script>
 </html>
