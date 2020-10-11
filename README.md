@@ -4,4 +4,4 @@ this project has the purpose of creating a new programming language to be used i
 The folder labeled 'lang' contains the code for the actual language, which will compile to javascript as to make it possible for the IDE to run it without requiring a server, therefore making it offline.
 
 the files in the main directory are those that contain the actual IDE, for now a Code Editor.
-The editor is based on ACE
+The editor is based on ACE. For more information see: https://ace.c9.io/
