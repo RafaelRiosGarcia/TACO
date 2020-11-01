@@ -5,3 +5,5 @@ The folder labeled 'lang' contains the code for the actual language, which will 
 
 the files in the main directory are those that contain the actual IDE, for now a Code Editor.
 The editor is based on ACE. For more information see: https://ace.c9.io/
+
+You can find the current code editor in the following link https://rafaelriosgarcia.github.io/TACO/
